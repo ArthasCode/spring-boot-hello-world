@@ -16,4 +16,4 @@ EXPOSE 8080
 
 CMD ["java", "-jar", "app.jar"]
 
-# Que comecem os testes!
+# Que comecem os testes! docker build -t [nome] .
